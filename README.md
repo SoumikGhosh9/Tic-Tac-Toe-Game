@@ -24,7 +24,7 @@ If all squares are filled and no one wins, it’s a **draw**.
 
 ## 📷 Preview
 
-![Tic Tac Toe Preview]<img width="1920" height="1320" alt="image" src="https://github.com/user-attachments/assets/188675a3-54af-4ff0-b433-7c2e4ea17781" />
+<img width="1920" height="1320" alt="image" src="https://github.com/user-attachments/assets/188675a3-54af-4ff0-b433-7c2e4ea17781" />
 
 
 ---
